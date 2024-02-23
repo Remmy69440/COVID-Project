@@ -1,4 +1,4 @@
-## Tableau Visualizations
+# Tableau Visualizations
 
 For further analysis and visualization of the COVID-19 data, Tableau has been utilized to create visualizations including:
 
