@@ -34,7 +34,7 @@ Before delving into detailed analysis, it's essential to explore the dataset to 
 
 ## Visualization
 
-You can find a visualization created using Tableau in the [Tableau](https://public.tableau.com/app/profile/remigius.ufomba/viz/covidproject1_17085647978130/COVIDPROJECTDASHBOARD) directory. The visualization provides additional insights into the COVID-19 data and complements the SQL analysis in this portfolio.
+You can find a visualization created using Tableau [Here](https://public.tableau.com/app/profile/remigius.ufomba/viz/covidproject1_17085647978130/COVIDPROJECTDASHBOARD) directory. The visualization provides additional insights into the COVID-19 data and complements the SQL analysis in this portfolio.
 ![COVID PROJECT DASHBOARD](https://github.com/Remmy69440/COVID-Project/assets/159604919/fdbc2376-3734-4811-95dd-f33c46a5b791)
 
 
