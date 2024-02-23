@@ -7,6 +7,7 @@ This portfolio contains SQL scripts and analysis based on COVID-19 data sourced 
 - [Overview](#overview)
 - [Data Source](#data-source)
 - [Data Exploration](#data-exploration)
+- [Visualization](#visualization)
 - [SQL Queries](#sql-queries)
   - [Full Table Queries](#full-table-queries)
   - [Data Sorting and Filtering](#data-sorting-and-filtering)
@@ -30,6 +31,12 @@ Before delving into detailed analysis, it's essential to explore the dataset to 
 - **Data Quality Checks**: Identify missing values, outliers, or inconsistencies in the data that may need to be addressed before analysis.
 - **Temporal Trends**: Plot temporal trends of key variables such as total cases, total deaths, and vaccination rates over time to observe patterns and changes.
 - **Geographical Distribution**: Visualize the geographical distribution of COVID-19 cases and vaccination rates using maps or charts to identify hotspots or areas with high impact.
+
+## Visualization
+
+You can find a visualization created using Tableau in the [Tableau](https://public.tableau.com/app/profile/remigius.ufomba/viz/covidproject1_17085647978130/COVIDPROJECTDASHBOARD) directory. The visualization provides additional insights into the COVID-19 data and complements the SQL analysis in this portfolio.
+![COVID PROJECT DASHBOARD](https://github.com/Remmy69440/COVID-Project/assets/159604919/fdbc2376-3734-4811-95dd-f33c46a5b791)
+
 
 ## SQL Queries
 
